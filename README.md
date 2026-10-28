@@ -238,7 +238,7 @@ Cupbox 的安卓极简派生物。剥离重型桌面功能,只保留 AI Agent �
   <img src="https://raw.githubusercontent.com/beizilaoshi/beizilaoshi/output/snake.svg" alt="贡献贪吃蛇" />
 </picture>
 
-<sub>杯杯在贡献图上吃格子 · 每 6 小时由 <a href="https://github.com/beizilaoshi/beizilaoshi/actions/workflows/snake.yml">GitHub Actions</a> 自动重跑</sub>
+<sub>杯杯在贡献图上吃格子 · 蛇还小,但每 6 小时会自己长大 · <a href="https://github.com/beizilaoshi/beizilaoshi/actions/workflows/snake.yml">GitHub Actions</a></sub>
 
 </div>
 
