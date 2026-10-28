@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.png" />
-  <img src="./assets/hero-light.png" alt="杯艺宣 · Cupbox 作者 · AI 工具链构建者" width="100%" />
+  <img src="./assets/hero-light.png" alt="杯艺萱 · Cupbox 作者 · AI 工具链构建者" width="100%" />
 </picture>
 
 <a href="https://github.com/beizilaoshi">
@@ -254,7 +254,7 @@ Cupbox 的安卓极简派生物。剥离重型桌面功能,只保留 AI Agent �
 - **轻量依赖**:运行时依赖目标仅两个,OCR 复用系统原生能力,压缩走系统 `tar`,尽量不增加部署负担。
 - **Android Qbot** 走的是 `PRoot → Ubuntu → Linux QQ + NapCat → 本机 OneBot` 路线,NapCat 管理和 OneBot 只绑回环地址,二维码本机生成。
 - **DSH-Test** 提供 `parallel`(多模型分头做再汇总裁决)和 `debate`(逐位批判性回应后裁决)两种协作模式,让 AI 从"一问一答"变成"一组专家开会"。
-- **杯杯** 是 Cupbox 的吉祥物,从启动画面一路跟到安装器和节日限定皮肤,也是这个主页的视觉主角。
+- **筑梦喵** 是 Cupbox 的吉祥物,从启动画面一路跟到安装器和节日限定皮肤,也是这个主页的视觉主角。
 
 </details>
 
