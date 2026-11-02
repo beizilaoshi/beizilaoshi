@@ -1,7 +1,7 @@
 <!-- Profile artwork and layout: 杯艺萱 × 筑梦喵. Skills retained from the original profile. -->
 <div align="center">
 
-<a href="#gh-light-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-light.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-light.png" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-light.gif" /><img src="./assets/atelier-hero-light.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的樱花灵感工作室" /></picture></a><a href="#gh-dark-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-dark.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-dark.png" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-dark.gif" /><img src="./assets/atelier-hero-dark.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的月夜灵感工作室" /></picture></a>
+<a href="#gh-light-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-light.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-light.png" /><source media="(max-width: 600px)" type="image/webp" srcset="./assets/atelier-mobile-light.webp" /><source type="image/webp" srcset="./assets/atelier-hero-light.webp" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-light.gif" /><img src="./assets/atelier-hero-light.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的樱花灵感工作室" /></picture></a><a href="#gh-dark-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-dark.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-dark.png" /><source media="(max-width: 600px)" type="image/webp" srcset="./assets/atelier-mobile-dark.webp" /><source type="image/webp" srcset="./assets/atelier-hero-dark.webp" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-dark.gif" /><img src="./assets/atelier-hero-dark.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的月夜灵感工作室" /></picture></a>
 
 <br/>
 <b>写有用的代码，做有温度的工具。</b>
@@ -37,7 +37,7 @@
 ## 🐾 遇见筑梦喵
 
 <div align="center">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/mascot-wave.png" /><img src="./assets/mascot-alive.gif" width="290" alt="筑梦喵抱着 Cupbox 标志，轻轻眨眼，和你一起等一个新灵感" /></picture><br/><sub>ZHUMENG MIAO · CUPBOX MASCOT</sub>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/mascot-wave.png" /><source type="image/webp" srcset="./assets/mascot-alive.webp" /><img src="./assets/mascot-alive.gif" width="290" alt="筑梦喵抱着 Cupbox 标志，轻轻眨眼，和你一起等一个新灵感" /></picture><br/><sub>ZHUMENG MIAO · CUPBOX MASCOT</sub>
 </div>
 
 ### 把梦织成代码的小小搭档
