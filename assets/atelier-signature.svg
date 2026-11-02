@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="杯艺萱与筑梦喵，灵感工作室">
+ <defs><linearGradient id="glow"><stop stop-color="#e4f0ff" stop-opacity=".55"/><stop offset=".5" stop-color="#f3e6f2" stop-opacity=".65"/><stop offset="1" stop-color="#e4f0ff" stop-opacity=".55"/></linearGradient><linearGradient id="ink"><stop stop-color="#8196c4"/><stop offset="1" stop-color="#bf91b1"/></linearGradient></defs>
+ <rect x="1" y="1" width="1198" height="178" rx="24" fill="url(#glow)"/>
+ <g fill="none" stroke="#a7b6d6" opacity=".35"><ellipse cx="600" cy="89" rx="266" ry="64"/><ellipse cx="600" cy="89" rx="294" ry="49" transform="rotate(-7 600 89)"/></g>
+ <g font-family="'Segoe UI','Microsoft YaHei',sans-serif" text-anchor="middle"><text x="600" y="62" font-size="12" letter-spacing="5" fill="#8796b4">CODE WITH CARE · DREAM WITH MIAO</text><text x="600" y="103" font-size="29" font-weight="600" fill="url(#ink)">杯艺萱 × 筑梦喵</text><text x="600" y="133" font-size="15" fill="#8d97ae">让工具更顺手，让创造更自由</text></g>
+ <g fill="#d4a5c4"><path d="m294 73 3 9 9 3-9 3-3 9-3-9-9-3 9-3z"><animate attributeName="opacity" values=".35;1;.35" dur="5s" repeatCount="indefinite"/></path><path d="m917 99 2 7 7 2-7 2-2 7-2-7-7-2 7-2z"/></g>
+</svg>
