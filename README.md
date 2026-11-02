@@ -1,17 +1,13 @@
 <!-- Profile artwork and layout: 杯艺萱 × 筑梦喵. Skills retained from the original profile. -->
 <div align="center">
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/atelier-mobile-dark.png" />
-  <source media="(max-width: 600px)" srcset="./assets/atelier-mobile-light.png" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/atelier-hero-dark.png" />
-  <img src="./assets/atelier-hero-light.png" width="100%" alt="杯艺萱 · 独立开发者与 AI 工具链构建者，和筑梦喵一起把灵感写成代码" />
-</picture>
+<a href="#gh-light-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-light.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-light.png" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-light.gif" /><img src="./assets/atelier-hero-light.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的樱花灵感工作室" /></picture></a><a href="#gh-dark-mode-only"><picture><source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/atelier-mobile-dark.png" /><source media="(prefers-reduced-motion: reduce)" srcset="./assets/atelier-hero-dark.png" /><source media="(max-width: 600px)" srcset="./assets/atelier-mobile-dark.gif" /><img src="./assets/atelier-hero-dark.gif" width="100%" alt="杯艺萱 · 图恒宇派学者 · 终极理想：实现数字生命，筑梦喵的月夜灵感工作室" /></picture></a>
 
 <br/>
 <b>写有用的代码，做有温度的工具。</b>
 <br/>
 <sub>Independent Developer · AI Tooling · Thoughtful Engineering</sub>
+<br/><sub>图恒宇派学者 · 终极理想：实现数字生命</sub>
 <br/><br/>
 
 <a href="https://github.com/beizilaoshi/Cupbox"><img src="https://img.shields.io/badge/Cupbox_工具箱-768abb?style=flat-square&logo=github&logoColor=white" alt="Cupbox 工具箱" /></a> <a href="https://www.npmjs.com/package/cupbox"><img src="https://img.shields.io/badge/npm_/_cupbox-c390a9?style=flat-square&logo=npm&logoColor=white" alt="npm / cupbox" /></a> <a href="https://beilaoshi.cn"><img src="https://img.shields.io/badge/Blog_/_beilaoshi.cn-86a9bb?style=flat-square&logo=rss&logoColor=white" alt="Blog / beilaoshi.cn" /></a> <a href="mailto:2023351165@qq.com"><img src="https://img.shields.io/badge/联系我-9a8bb6?style=flat-square" alt="联系我" /></a>
@@ -30,6 +26,10 @@
 
 > **开发手记** &nbsp; 让 AI 有执行力，也让每一步执行有边界。筑梦喵负责陪伴和灵感，我负责把它们落成代码。
 
+<a href="#gh-light-mode-only"><img src="./assets/digital-life-light.svg" width="100%" alt="图恒宇派学者 · 我的终极理想：实现数字生命" /></a><a href="#gh-dark-mode-only"><img src="./assets/digital-life-dark.svg" width="100%" alt="图恒宇派学者 · 我的终极理想：实现数字生命" /></a>
+
+**我的终极理想，是实现数字生命。** 我把自己称作“图恒宇派学者”，希望从有用的工具出发，逐步探索持续记忆、自主行动与长期陪伴，让筑梦喵承载更多想象。
+
 <img src="./assets/engineering-ribbon.svg" width="100%" alt="共用核心：CLI、MCP、Desktop 一套引擎；明确边界：权限、预览与可追溯的执行；持续交付：从代码到可安装的产品" />
 
 <img src="./assets/atelier-divider.svg" width="100%" alt="樱花与星轨" />
@@ -37,7 +37,7 @@
 ## 🐾 遇见筑梦喵
 
 <div align="center">
-<img src="./assets/mascot-wave.png" width="260" alt="筑梦喵，抱着 Cupbox 标志向你挥手" /><br/><sub>ZHUMENG MIAO · CUPBOX MASCOT</sub>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/mascot-wave.png" /><img src="./assets/mascot-alive.gif" width="290" alt="筑梦喵抱着 Cupbox 标志，轻轻眨眼，和你一起等一个新灵感" /></picture><br/><sub>ZHUMENG MIAO · CUPBOX MASCOT</sub>
 </div>
 
 ### 把梦织成代码的小小搭档
@@ -293,10 +293,7 @@ cupbox organize ./Downloads --mode category --dry-run
 
 每一次提交，都是把想法往前推进一点。
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beizilaoshi/beizilaoshi/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/beizilaoshi/beizilaoshi/output/snake.svg" width="100%" alt="随真实 GitHub 贡献更新的贡献贪吃蛇" />
-</picture>
+<a href="#gh-light-mode-only"><img src="https://raw.githubusercontent.com/beizilaoshi/beizilaoshi/output/snake.svg" width="100%" alt="随真实 GitHub 贡献更新的贡献贪吃蛇" /></a><a href="#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/beizilaoshi/beizilaoshi/output/snake-dark.svg" width="100%" alt="深色模式贡献贪吃蛇" /></a>
 
 <div align="center"><sub>贡献轨迹 · 每 6 小时自动生成 · <a href="https://github.com/beizilaoshi/beizilaoshi/actions/workflows/snake.yml">查看生成记录</a></sub></div>
 
@@ -310,27 +307,18 @@ cupbox organize ./Downloads --mode category --dry-run
 <tr>
 <td width="50%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=beizilaoshi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beizilaoshi&show_icons=true&hide_border=true&title_color=1A2A6C&icon_color=00C9FF&text_color=434d58&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-</picture>
+<a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=beizilaoshi&show_icons=true&hide_border=true&title_color=1A2A6C&icon_color=00C9FF&text_color=434d58&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" /></a><a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=beizilaoshi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" /></a>
 
 </td>
 <td width="50%" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beizilaoshi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beizilaoshi&layout=compact&hide_border=true&title_color=1A2A6C&text_color=434d58&langs_count=8" alt="Top Languages" width="100%" />
-</picture>
+<a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beizilaoshi&layout=compact&hide_border=true&title_color=1A2A6C&text_color=434d58&langs_count=8" alt="Top Languages" width="100%" /></a><a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beizilaoshi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" /></a>
 
 </td>
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=beizilaoshi&hide_border=true&background=0D1117&stroke=1C2430&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=C9D1D9&dates=4D5B6E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
-  <img src="https://streak-stats.demolab.com?user=beizilaoshi&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=1A2A6C&sideLabels=434d58&dates=8C97A8&currStreakNum=1A2A6C&sideNums=1A2A6C" alt="Streak Stats" />
-</picture>
+<a href="#gh-light-mode-only"><img src="https://streak-stats.demolab.com?user=beizilaoshi&hide_border=true&ring=00C9FF&fire=00C9FF&currStreakLabel=1A2A6C&sideLabels=434d58&dates=8C97A8&currStreakNum=1A2A6C&sideNums=1A2A6C" alt="Streak Stats" /></a><a href="#gh-dark-mode-only"><img src="https://streak-stats.demolab.com?user=beizilaoshi&hide_border=true&background=0D1117&stroke=1C2430&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF&sideLabels=C9D1D9&dates=4D5B6E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="Streak Stats" /></a>
 
 </div>
 
@@ -340,7 +328,7 @@ cupbox organize ./Downloads --mode category --dry-run
 
 <div align="center">
 
-<img src="./assets/atelier-signature.svg" width="100%" alt="杯艺萱与筑梦喵 · 让工具更顺手，让创造更自由" />
+<a href="#gh-light-mode-only"><img src="./assets/atelier-signature-light.svg" width="100%" alt="杯艺萱与筑梦喵 · 保持创造，向数字生命前进" /></a><a href="#gh-dark-mode-only"><img src="./assets/atelier-signature-dark.svg" width="100%" alt="杯艺萱与筑梦喵 · 保持创造，向数字生命前进" /></a>
 
 [GitHub](https://github.com/beizilaoshi) &nbsp; / &nbsp; [博客](https://beilaoshi.cn) &nbsp; / &nbsp; [npm](https://www.npmjs.com/package/cupbox) &nbsp; / &nbsp; [Email](mailto:2023351165@qq.com)
 
